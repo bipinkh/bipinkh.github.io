@@ -6,7 +6,7 @@ email: mail@erbipin.com
 description: > # this means to ignore newlines until "url:"
   Software Developer | Cybersecurity Graduate | A Wanderer of Cosmos.
 url:  # the base hostname & protocol for your site
-footer_text: Disclaimer - This website stores cookies from Google Analytics to be used for analytics purposes.
+footer_text: Disclaimer - This website stores Google Analytics cookies for analytics.
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 

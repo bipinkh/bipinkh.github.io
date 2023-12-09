@@ -5,10 +5,8 @@ title: projects
 description: Featured projects
 ---
 
-**Featured projects**
-
   <br>
-  <b>Please check GitHub if you are interested in codebase of any project. If the code is not available there, it means for legal reason, I cannot share it whatsoever. </b>
+  <b>Please check GitHub if you are interested in codebase for any project. If the code is not available there, it means for legal reason, I cannot share it whatsoever. </b>
   <br>
 
 <div>  
@@ -76,7 +74,6 @@ description: Featured projects
 <br>
 *\*Details of some projects are only available upon request.*
 
-For more information and list of other projects, please 
-<a href="{{ site.url }}/download/Khatiwada_Bipin_Resume.pdf" target="_blank">check my resume</a> 
-or visit my [github profile](https://github.com/bipinkh){:target="\_blank"}.
+
+More available an [github profile](https://github.com/bipinkh){:target="\_blank"}.
 
